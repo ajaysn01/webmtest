@@ -12,6 +12,9 @@
   <COMMENT>Change A added</COMMENT>
 </MAP>
 <MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT>Change B added</COMMENT>
+</MAP>
+<MAP TIMEOUT="" MODE="STANDALONE">
   <COMMENT>Change C added</COMMENT>
 </MAP>
 </FLOW>
